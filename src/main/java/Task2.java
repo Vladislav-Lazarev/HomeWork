@@ -9,7 +9,7 @@ import java.io.*;
 import static java.lang.Thread.sleep;
 
 public class Task2 {
-    public static void main(String[] args) {
+    public static void main(String[] args){
         String fileName = args[0];
         try {
             Connection connection = new ConnectionImpl();

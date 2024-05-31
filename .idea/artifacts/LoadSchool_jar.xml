@@ -3,6 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/LoadSchool_jar</output-path>
     <root id="archive" name="LoadSchool.jar">
       <element id="module-output" name="LoadSchool" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../dummy-connector.jar" />
     </root>
   </artifact>
 </component>
